@@ -1,0 +1,11 @@
+# Python ML pipeline + backend
+tensorflow==2.16.1
+keras>=2.16
+numpy>=1.24
+pillow>=10.0
+scikit-learn>=1.3
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+supabase>=2.0
+tensorflowjs>=4.20        # to export the trained model to TF.js for browser use
